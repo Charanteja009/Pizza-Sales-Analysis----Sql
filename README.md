@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales SQL Analysis Project
 
-![Alt Text](https://github.com/Charanteja009/Pizza-Sales-Analysis----sql/blob/326d063db5b52f1c5bbc06846b05eeae53858607/pizza.jpg)
+![Alt Text](https://github.com/Charanteja009/Pizza-Sales-Analysis----Sql/blob/71961aabfdae8dd631c865445abe05429c41c8c0/pizza.jpg)
 
 This project contains **13 SQL questions** with solutions, written and tested using a **Pizza Sales dataset**.  
 The queries demonstrate SQL skills including **JOINs, Aggregations, Window Functions, Ranking, CTEs, and Subqueries**.  
